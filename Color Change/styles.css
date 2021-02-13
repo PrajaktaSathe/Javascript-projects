@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+#blueBtn {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+#redBtn {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+#greenBtn {
+    cursor: pointer;
+    background-color: green;
+    color: white;
+    box-shadow: 5px 5px 5px black;
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+#myDiv {
+    border: solid black;
+    font-size: 25px;
+    margin: 55px;
+    padding: 20px;
+}
+
+#myDiv2 {
+    border: solid black;
+    font-size: 25px;
+    margin: 55px;
+    padding: 20px;
+}

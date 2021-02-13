@@ -15,5 +15,7 @@ Thanks to all the resources!!! 😁🙌🏻
  
 4. **To Do App** - This project is a basic to-do list app. We can add items, delete items, and cross items as we usually do in a to-do list. Reference for this app - https://www.w3schools.com/howto/howto_js_todolist.asp 
 
+5. **Color Change** - This project was done on my own without referring to any website!!
+
 
 **Do star the repo if you find it useful!!**
