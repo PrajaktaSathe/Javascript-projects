@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+body {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    background-color: rgb(233, 190, 255);
+}
+
+ul {
+    margin: 10px;
+    padding: 0;
+    border-radius: 15px;
+}
+
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 15px 10px 15px 50px;
+    border-radius: 0 0 30px 30px;
+    background: rgb(226, 253, 255);
+    font-size: 110%;
+    transition: 0.2s;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+ul li:nth-child(odd) {
+    background-color: rgb(233, 190, 255);
+}
+
+ul li:hover {
+    background-color: gold;
+}
+
+ul li.checked {
+    background: #888;
+    color: #fff;
+    text-decoration: line-through;
+}
+  
+ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 10px;
+    left: 16px;
+    transform: rotate(45deg);
+    height: 15px;
+    width: 7px;
+}  
+
+.close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 15px 16px;
+}
+
+.close:hover {
+    border-radius: inherit;
+    background-color: rgb(0, 19, 128);
+    color: floralwhite;
+}
+
+.header {
+    background-color: rgb(54, 8, 71);
+    font-size: 130%;
+    padding: 50px 50px;
+    border-radius: 0 0 7em 7em;
+    color: white;
+    text-align: center;
+}
+
+.header:after {
+    content: '';
+    display: table;
+    clear: both;
+}
+
+input {
+    margin: 0;
+    border: none;
+    width: 80%;
+    padding: 10px;
+    float: left;
+    font-size: 95%;
+    border-radius: 15px 0;
+}
+
+.addBtn {
+    cursor: pointer;
+    padding: 10px;
+    width: 20%;
+    float: right;
+    border-radius: 0 15px;
+    text-align: center;
+    font-size: 95%;
+    transition: 0.5s;
+}
+
+.addBtn:hover {
+    color: darkblue;
+    background-color: gold;
+}

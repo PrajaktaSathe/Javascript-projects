@@ -13,7 +13,7 @@ Thanks to all the resources!!! 😁🙌🏻
 3. **Random Quote Generator** - In this project, I used my own custom CSS to style up the generator!!
   Referred the JS part from - https://www.freecodecamp.org/news/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08/
  
- 
+4. **To Do App** - This project is a basic to-do list app. We can add items, delete items, and cross items as we usually do in a to-do list. Reference for this app - https://www.w3schools.com/howto/howto_js_todolist.asp 
 
 
 **Do star the repo if you find it useful!!**
