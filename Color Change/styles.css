@@ -2,33 +2,37 @@
     box-sizing: border-box;
 }
 
+/* Centering everything from the body */
 body {
     text-align: center;
 }
 
+/* Specifications for the blue button */
 #blueBtn {
     cursor: pointer;
-    background-color: blue;
+    background-color: rgb(0, 25, 253);
     color: white;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 5px 5px 7px black;
     margin: 10px;
     padding: 10px 10px;
 }
 
+/* Specifications for the red button */
 #redBtn {
     cursor: pointer;
     background-color: red;
     color: white;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 5px 5px 7px black;
     margin: 10px;
     padding: 10px 10px;
 }
 
+/* Specifications for the green button */
 #greenBtn {
     cursor: pointer;
-    background-color: green;
+    background-color: rgb(0, 255, 0);
     color: white;
-    box-shadow: 5px 5px 5px black;
+    box-shadow: 5px 5px 7px black;
     margin: 10px;
     padding: 10px 10px;
 }
@@ -41,8 +45,28 @@ body {
 }
 
 #myDiv2 {
+    cursor: pointer;
     border: solid black;
     font-size: 25px;
     margin: 55px;
     padding: 20px;
 }
+
+#myTextDiv {
+    cursor: pointer;
+    border: solid black;
+    font-size: 25px;
+    margin: 55px;
+    padding: 20px;
+    transition: 0.7s;
+}
+
+#myTextDiv2 {
+    cursor: pointer;
+    border: solid black;
+    font-size: 25px;
+    margin: 55px;
+    padding: 20px;
+    transition: 0.7s;
+}
+
