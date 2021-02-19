@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Kanadaka&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Akaya Kanadaka', cursive;
+}
+
+body {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(255, 225, 248);
+}
+
+h1 {
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 350%;
+    text-shadow: 3px 5px 5px rgb(143, 135, 255);
+}
+
+h1:hover {
+    font-size: 355%;
+    text-shadow: 1px 1px 10px rgb(19, 24, 196);
+    transition: all 0.5s;
+}
+
+div {
+    margin: 1em;
+    padding: 0.5em;
+}
+
+.text {
+    margin: 1px;
+    padding: 1px;
+    font-size: 28px;
+}
+
+.app-options {
+    font-size: 25px;
+}
+
+a {
+    color: rgb(150, 3, 142);
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 26.5px;
+    text-shadow: 3px 3px 7px rgb(71, 0, 62);
+    transition: all 0.5s;
+}
+
+
