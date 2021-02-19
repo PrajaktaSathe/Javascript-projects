@@ -17,5 +17,6 @@ Thanks to all the resources!!! 😁🙌🏻
 
 5. **Toggle Light-Dark Mode** - (Florin Pop) - https://www.youtube.com/watch?v=xodD0nw2veQ
 
+Check out the projects here - https://prajaktasathe.github.io/Javascript-projects/ !!
 
 **Do star the repo if you find it useful!!**
