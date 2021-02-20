@@ -6,6 +6,7 @@
 }
 
 body {
+    text-align: center;
     margin: 0;
     padding: 5%;
     background: #FF4E50;  /* fallback for old browsers */
