@@ -29,3 +29,26 @@ body {
     font-size: 85px;
     transition: 0.5s;
 }
+
+footer {
+    margin-top: 15px;
+    padding: 15px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+footer a {
+    color: rgba(0, 0, 0, 0.897);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+}
