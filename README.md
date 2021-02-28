@@ -21,4 +21,6 @@ Thanks to all the resources!!! 😁🙌🏻
 
 Check out the projects here - https://prajaktasathe.github.io/Javascript-projects/ !!
 
+If you come across any bug/glitch, you can open up an issue.
+
 **Do star the repo if you find it useful!!**
