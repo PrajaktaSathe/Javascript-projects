@@ -42,19 +42,19 @@ const quizData = [
     }
 ];
 
-const quiz = document.getElementById("quiz");
-const answerEls = document.querySelectorAll(".answer");
-const questionEl = document.getElementById("question");
-const a_text = document.getElementById("a_text");
-const b_text = document.getElementById("b_text");
-const c_text = document.getElementById("c_text");
-const d_text = document.getElementById("d_text");
-const submitBtn = document.getElementById("submit");
+const quiz = document.getElementById("quiz"); // variable for quiz
+const answerEls = document.querySelectorAll(".answer"); // variable for answers
+const questionEl = document.getElementById("question"); // variable for question
+const a_text = document.getElementById("a_text"); // variable for text of option a
+const b_text = document.getElementById("b_text"); // variable for text of option b
+const c_text = document.getElementById("c_text"); // variable for text of option c
+const d_text = document.getElementById("d_text"); // variable for text of option d
+const submitBtn = document.getElementById("submit"); // variable to access submit button
 
 let currentQuiz = 0; // keeps track of current question number
 let score = 0; // keeps track of score
 
-loadQuiz();
+loadQuiz(); // function call
 
 function loadQuiz() {
     deselectAnswers(); // this function will deselect any previously selected answers
