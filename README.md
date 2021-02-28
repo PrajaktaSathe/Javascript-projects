@@ -19,6 +19,8 @@ Thanks to all the resources!!! 😁🙌🏻
 
 6. **Hello, Name** - This is a simple and fun project. Go check it out!!
 
+7. **Countdown Timer** - A countdown timer made using HTML, CSS and JavaScript. https://prajaktasathe.github.io/Countdown-timer/ - Link to the project
+
 Check out the projects here - https://prajaktasathe.github.io/Javascript-projects/ !!
 
 If you come across any bug/glitch, you can open up an issue.
