@@ -21,6 +21,8 @@ Thanks to all the resources!!! 😁🙌🏻
 
 7. **Countdown Timer** - A countdown timer made using HTML, CSS and JavaScript. https://prajaktasathe.github.io/Countdown-timer/ - Link to the project
 
+8. **Harry Potter Quiz** - A quiz app made using HTML, CSS and JavaScript. I referred this video - https://www.youtube.com/watch?v=riDzcEQbX6k 
+
 Check out the projects here - https://prajaktasathe.github.io/Javascript-projects/ !!
 
 If you come across any bug/glitch, you can open up an issue.
