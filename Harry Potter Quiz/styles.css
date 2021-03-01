@@ -84,3 +84,24 @@ body.wrong {
 .hide {
     display: none;
 }
+
+footer {
+    margin-top: 15px;
+    padding: 15px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+footer a {
+    color: rgb(90, 226, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: rgb(86, 160, 1);
+    font-size: larger;
+}
